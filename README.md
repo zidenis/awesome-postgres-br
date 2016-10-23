@@ -26,7 +26,7 @@ Conteúdo:
 
 - 0 rows retrieved. 
 
- ----------
+----------
 ### Grupos
 
 **Grupos de usuários, fóruns, listas de e-mail, canais de chat...**
@@ -66,10 +66,10 @@ Conteúdo:
 
 ----------
 ## Softwares
-**Aplicativos, utilitários, scripts, desenvolvidos pela comunidade**
+**Aplicativos, utilitários, scripts, desenvolvidos pela comunidade...**
 
 - 0 rows retrieved. 
 
 ----------
-Gostou da lista? [contribua[(https://github.com/zidenis/awesome-postgres-br/blob/master/CONTRIBUTING.md). Obrigado a todos os contribuidores [contributors]. 
+Gostou da lista? [contribua](https://github.com/zidenis/awesome-postgres-br/blob/master/CONTRIBUTING.md). Obrigado a todos os contribuidores [contribuidores](https://github.com/zidenis/awesome-postgres-br/graphs/contributors). 
 Você também pode gostar da lista [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres#high-availability).
