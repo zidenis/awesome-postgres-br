@@ -69,6 +69,7 @@ Conteúdo:
 **Aplicativos, utilitários, scripts, desenvolvidos pela comunidade...**
 
 - [pgconfig](https://www.pgconfig.org) - ferramenta web para auxílio na configuração (*tunning*) do PostgreSQL de acordo com o caso de uso. Desenvolvida pelo [@sebastian_swc](https://twitter.com/sebastian_swc).
+- [pgModeler](http://pgmodeler.com.br/) - utilitário para modelagem visual de bancos de dados PostgreSQL. Desenvolvido por [Raphael Silva](https://github.com/rkhaotix).
 
 ----------
 Gostou da lista? [contribua](https://github.com/zidenis/awesome-postgres-br/blob/master/CONTRIBUTING.md). Obrigado a todos os contribuidores [contribuidores](https://github.com/zidenis/awesome-postgres-br/graphs/contributors). 
